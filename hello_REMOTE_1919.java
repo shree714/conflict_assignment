@@ -2,6 +2,6 @@
 
 class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello,I am from developer 1 doing conflict demo");
+        System.out.println("Hello,I am from developer 1 World!"); 
     }
 }
