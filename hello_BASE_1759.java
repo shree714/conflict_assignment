@@ -2,7 +2,6 @@
 
 class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello,Deveoper 2 World!"); 
-
+        System.out.println("Hello, World!"); 
     }
 }
